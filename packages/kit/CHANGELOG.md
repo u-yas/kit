@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.22.2
+
+### Patch Changes
+
+- feat: more helpful error for preview if build output doesn't exist ([#10337](https://github.com/sveltejs/kit/pull/10337))
+
 ## 1.22.1
 
 ### Patch Changes
